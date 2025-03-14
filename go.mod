@@ -1,4 +1,4 @@
-module github.com/sylphbyte/pkg/pr
+module github.com/sylphbyte/pr
 
 go 1.24.0
 
